@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Loua BEN AFIA,a Developer based in Tunisia.
+            Hi! I&apos;m Loua BEN AFIA,a Web Developer based in Tunisia.
           </p>
 
           <a href="#about">
