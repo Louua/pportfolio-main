@@ -7,7 +7,7 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Loua's Portfolio",
+  title: "Loua BEN AFIA | Portfolio",
   description: "Modern & Minimal JS Mastery Portfolio",
 };
 
@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <head>
-          <link rel="icon" href="/logo.jpg" sizes="any" />
+          <link rel="icon" href="/louuu.png" sizes="180x180" />
         </head>
       </head>
 
