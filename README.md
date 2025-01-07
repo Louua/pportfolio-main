@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a passionate Front-End Developer with hands-
 
 ## 🛠️ Skills and Technologies  
 
-- **Frameworks & Libraries**: React.js, Angular, Next.js, Tailwind CSS, Three.js  
+- **Frameworks & Libraries**: React.js, Next.js, Tailwind CSS, Three.js  
 - **Web Development**: HTML5, CSS3, JavaScript (ES6+), Bootstrap  
 - **Mobile Development**: React Native  
 - **Version Control**: Git, GitHub  
