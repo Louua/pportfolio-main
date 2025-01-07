@@ -47,4 +47,3 @@ Feel free to reach out for collaboration, feedback, or inquiries!
 
 ---
 
-Let me know if you'd like further adjustments or if you have specific sections you'd like to add!
